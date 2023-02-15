@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+  }
+
+body {
+    margin: 0%;
+    padding: 0;
+    background-color: darkslategray;
+}
+
+container{
+  height: 100vh;
+  width: 100%;
+
+}
+header{
+  background-color: brown;
+}
+
+nav{
+  background-color:antiquewhite;
+}
+
+section{
+  background-color:wheat;
+}
+
+article{
+  background-color: white;
+}
+
+aside{
+  background-color: brown;
+}
+
+footer{
+  background-color: whitesmoke;
+}
+
+.altura1{
+  height: 10vh;
+}
+.altura2{
+  height: 10vh;
+}
+.altura3{
+  height:70vh;
+}
